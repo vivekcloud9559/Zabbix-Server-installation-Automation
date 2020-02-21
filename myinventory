@@ -1,0 +1,6 @@
+[zabbix]
+192.168.X.X host_name=zabbix.local.lab ip_addr='192.168.X.X' dns_name=8.8.8.8 
+
+[zabbix:vars]
+zabbix_username='<Zabbix_UserName>'
+zabbix_password='<Zabbix_Password>'
